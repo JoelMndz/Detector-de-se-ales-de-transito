@@ -1,0 +1,3 @@
+https://github.com/JoelMndz/Detector-de-se-ales-de-transito
+
+https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
